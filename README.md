@@ -31,69 +31,11 @@ The world of diamonds is undergoing a significant transformation, particularly c
   - New: **Premium** / **Standard**.  
   - Below threshold → no grade.  
 
-</details>
-
----
-
-## The Role of IGI and Divergence
-<details>
-<summary>Click to expand</summary>
-
-- **IGI**: first to grade LGDs (2005).  
-- Still uses **full 4Cs** with growth method and type.  
-- Reports are cheaper, faster, sometimes more lenient.  
-- GIA = stricter, higher prestige.  
-- IGI = mass-market leader.  
-- Risk: **lab shopping and inconsistent grading.**  
-
-</details>
-
----
-
-## Ethical, Market, and Consumer Considerations
-<details>
-<summary>Click to expand</summary>
-
-- **Ethics**: conflict-free, lower land and water use.  
-- **But**: energy-intensive, coal power in some regions.  
-- **Prices**: down 85% in 10 years.  
-- **2025**: LGDs = 52% of U.S. engagement rings.  
-- Naturals = heirlooms, investments.  
-- LGDs = affordability, ethical appeal, lower resale.  
-
-</details>
-
----
-
-## Forward-Looking Risks
-<details>
-<summary>Click to expand</summary>
-
-- Commoditization: LGDs risk becoming fashion-only.  
-- Detection race: undisclosed mixing with naturals.  
-- Regulatory backlash: possible resale disclaimers.  
-- Market split: naturals for ultra-luxury, LGDs mid-market.  
-- Consumer trust issues if grading diverges too far.  
-
-</details>
-
----
-
-## Timeline of Key Events
-```mermaid
-gantt
-    dateFormat  YYYY
-    title Diamond Grading Timeline (2005–2025)
-
-    section IGI
-    IGI pioneers grading    :done, 2005, 2007
-
-    section GIA
-    GIA limited grading     :done, 2007, 2018
-    Removes synthetic term  :done, 2019, 2019
-    Full 4Cs online grading :done, 2020, 2024
-    Premium/Standard system :crit, 2025, 2025
-
-    section Other Labs
-    GCAL 8X reports         :done, 2020, 2022
-    AGS resumes grading     :done, 2022, 2022
+**How Premium/Standard Will Work**  
+- The new GIA system confirms the stone is a laboratory-grown diamond.  
+- It then assigns one of two categories: **Premium** or **Standard**.  
+- Categories are based on a combination of **color, clarity, and finish**.  
+- Diamonds failing to meet minimum GIA standards receive **no designation**.  
+- Rationale:  
+  - 95% of LGDs are already F-color or better, VVS clarity.  
+  - The 4Cs continuum of
