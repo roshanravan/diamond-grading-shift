@@ -93,8 +93,69 @@ This trajectory reflects growing consumer demand, market penetration of LGDs, an
 
 ---
 
-## Timeline of Key Events
-```mermaid
-gantt
-    dateFormat  YYYY
-    title Dia
+mindmap
+  root((GIA's Changes to Lab-Grown Diamond Grading))
+    Previous GIA Policies
+      Initial Approach 2006–2019
+        Used term Synthetic
+        General categories only
+        Identification reports since 2007
+      Intermediate Policy 2020–2025
+        Full 4Cs nomenclature
+        Removed Synthetic in 2019
+        Digital-only reports
+        Inscribed Laboratory-Grown + report number
+    New GIA Policy Starting Oct 2025
+      No Traditional 4Cs Grades
+        No D-to-Z color scale
+        No detailed clarity scale
+      New Categories
+        Premium
+        Standard
+        No designation for low quality
+      Rationale
+        LGDs not rare
+        Prices falling
+        Narrow color/clarity range
+        Consumer transparency
+        Uphold trust
+      Industry Reaction
+        Natural Diamond Council supports
+        ALTR CEO repositions
+        IGI says creates confusion
+    Grading Systems Comparison
+      GIA
+        Natural diamond focus
+        Stringent unbiased
+        Higher cost longer time
+      IGI
+        Pioneered LGD grading 2005
+        Includes growth method type
+        Lower cost faster
+        Popular with consumers
+        Hearts and Arrows option
+      Other Labs
+        GCAL 8X performance grading
+        AGS resumed LGD 2020
+    Lab-Grown Diamond Characteristics
+      Formation
+        HPHT
+          Blue or gray nuance
+          Metallic inclusions
+        CVD
+          Brown or yellow hue corrected post-treatment
+          Strain and striation
+      Comparison to Natural
+        Identical physical optical
+        Often higher clarity
+        Not rare mass produced
+        Cheaper by 20–40 percent
+      Market Trends
+        Prices down 85 percent in 10 years
+        52 percent US engagement rings in 2025
+        Demand driven by ethics affordability
+      Ethical Aspects
+        Conflict-free
+        Lower land water impact
+        Energy intensive variable renewables
+
