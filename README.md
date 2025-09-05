@@ -8,12 +8,12 @@ The world of diamonds is undergoing a significant transformation, particularly c
 <details>
 <summary>Click to expand</summary>
 
-- **2005 – IGI pioneers** full 4Cs grading for lab-grown diamonds  
-- **2007 – GIA begins** reports, only broad ranges for color/clarity  
-- **2019 – GIA removes “synthetic”** from reports  
-- **2020 – GIA launches online 4Cs grading**  
-- **2022 – AGS resumes grading; GCAL launches 8X reports**  
-- **2025 – GIA shifts to Premium/Standard system**  
+- **2005 – IGI pioneers** lab-grown grading.  
+- **2007 – GIA begins** reports, broad ranges only.  
+- **2019 – GIA removes “synthetic.”**  
+- **2020 – GIA launches full online 4Cs grading.**  
+- **2022 – AGS resumes grading; GCAL launches 8X reports.**  
+- **2025 – GIA shifts to Premium/Standard categories.**  
 
 </details>
 
@@ -23,13 +23,13 @@ The world of diamonds is undergoing a significant transformation, particularly c
 <details>
 <summary>Click to expand</summary>
 
-- The **4Cs system** was built for natural rarity.  
-- Early GIA reports gave only ranges.  
+- The **4Cs system** was designed for natural rarity.  
+- Early GIA reports: ranges only.  
 - **2019**: “Synthetic” dropped.  
-- **2020**: Full 4Cs offered online.  
-- **2025 Change**: GIA stops using 4Cs for LGDs.  
+- **2020**: Full 4Cs grading online.  
+- **2025 Change**: GIA stops 4Cs for LGDs.  
   - New: **Premium** / **Standard**.  
-  - Stones below threshold → no designation.  
+  - Below threshold → no grade.  
 
 </details>
 
@@ -39,11 +39,12 @@ The world of diamonds is undergoing a significant transformation, particularly c
 <details>
 <summary>Click to expand</summary>
 
-- **IGI led** LGD grading from 2005.  
-- Still uses **full 4Cs** with growth method + diamond type.  
-- Reports cheaper, faster, perceived as more lenient.  
-- GIA = prestige, stricter; IGI = mass-market leader.  
-- Risk of **lab shopping** and consumer confusion.  
+- **IGI**: first to grade LGDs (2005).  
+- Still uses **full 4Cs** with growth method and type.  
+- Reports are cheaper, faster, sometimes more lenient.  
+- GIA = stricter, higher prestige.  
+- IGI = mass-market leader.  
+- Risk: **lab shopping and inconsistent grading.**  
 
 </details>
 
@@ -53,12 +54,12 @@ The world of diamonds is undergoing a significant transformation, particularly c
 <details>
 <summary>Click to expand</summary>
 
-- **Ethics**: conflict-free, lower land/water use.  
-- **But**: energy-intensive, coal-heavy production in some regions.  
-- **Market Impact**: prices down 85% in 10 years.  
-- 2025: **52% of U.S. engagement rings are LGDs**.  
-- Naturals = heirlooms & investment.  
-- LGDs = affordability & ethical appeal.  
+- **Ethics**: conflict-free, lower land and water use.  
+- **But**: energy-intensive, coal power in some regions.  
+- **Prices**: down 85% in 10 years.  
+- **2025**: LGDs = 52% of U.S. engagement rings.  
+- Naturals = heirlooms, investments.  
+- LGDs = affordability, ethical appeal, lower resale.  
 
 </details>
 
@@ -68,11 +69,11 @@ The world of diamonds is undergoing a significant transformation, particularly c
 <details>
 <summary>Click to expand</summary>
 
-- Commoditization → LGDs as fashion items.  
-- Detection race → risk of undisclosed mixing.  
-- Regulatory backlash → resale disclaimers for LGDs.  
-- Market split → naturals for ultra-luxury, LGDs mid-market.  
-- Consumer trust weakened by grading divergence.  
+- Commoditization: LGDs risk becoming fashion-only.  
+- Detection race: undisclosed mixing with naturals.  
+- Regulatory backlash: possible resale disclaimers.  
+- Market split: naturals for ultra-luxury, LGDs mid-market.  
+- Consumer trust issues if grading diverges too far.  
 
 </details>
 
@@ -85,19 +86,18 @@ gantt
     title Diamond Grading Timeline (2005–2025)
 
     section IGI
-    IGI pioneers LGD grading     :done, 2005, 2007
+    IGI pioneers grading    :done, 2005, 2007
 
     section GIA
-    GIA limited grading          :done, 2007, 2018
-    Removes "synthetic" term     :done, 2019, 2019
-    Full 4Cs online grading      :done, 2020, 2024
-    Switches to Premium/Standard :crit, 2025, 2025
+    GIA limited grading     :done, 2007, 2018
+    Removes synthetic term  :done, 2019, 2019
+    Full 4Cs online grading :done, 2020, 2024
+    Premium/Standard system :crit, 2025, 2025
 
     section Other Labs
-    GCAL launches 8X reports     :done, 2020, 2022
-    AGS resumes LGD grading      :done, 2022, 2022
+    GCAL 8X reports         :done, 2020, 2022
+    AGS resumes grading     :done, 2022, 2022
 
----
 
 mindmap
   root((Diamond Grading Shift 2025))
@@ -106,55 +106,54 @@ mindmap
         Used "Synthetic"
         Only broad ranges
         Reports since 2007
-      2020 Policy
+      Policy 2020
         Full 4Cs online
         Removed "Synthetic"
-        Digital reports only
+        Digital reports
     New GIA Policy
       Categories
         Premium
         Standard
         No grade if below quality
-      No 4Cs for LGDs
+      No 4Cs
         No D-Z color
         No clarity scale
       Reasons
-        LGDs not rare
-        Narrow color/clarity range
+        Not rare
+        Narrow range
         Falling prices
-        Need transparency
+        Consumer transparency
       Reaction
-        Natural Diamond Council supports
-        IGI says causes confusion
+        NDC supports
+        IGI says confusing
     Lab Comparisons
       GIA
-        Strict, prestige
-        Higher cost, slower
+        Stricter
+        Prestige
       IGI
         First to grade LGDs
-        Growth method & type included
-        Cheaper, faster
-        Lenient reputation
+        Growth method noted
+        Cheaper faster
       Others
-        GCAL 8X performance
+        GCAL 8X reports
         AGS resumed 2020
     LGD Characteristics
       Formation
         HPHT
-          Blue/gray nuance
+          Blue gray nuance
           Metallic inclusions
         CVD
-          Brown/yellow corrected
+          Brown yellow corrected
           Strain or spots
       Comparison
-        Physically identical to naturals
+        Physically identical
         Often higher clarity
-        Not rare, mass produced
-        Cheaper 20–40%
+        Mass produced
+        20–40% cheaper
       Market Trends
         Prices down 85% in 10 years
-        52% of US engagement rings
-      Ethical Aspects
+        52% US engagement rings
+      Ethics
         Conflict-free
-        Lower land/water impact
-        Energy-intensive, variable renewables
+        Lower land water impact
+        Energy intensive
