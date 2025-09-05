@@ -92,7 +92,6 @@ This trajectory reflects growing consumer demand, market penetration of LGDs, an
 </details>
 
 ---
-
 mindmap
   root((GIA's Changes to Lab-Grown Diamond Grading))
     Previous GIA Policies
@@ -158,4 +157,3 @@ mindmap
         Conflict-free
         Lower land water impact
         Energy intensive variable renewables
-
